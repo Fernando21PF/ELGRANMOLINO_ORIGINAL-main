@@ -1,0 +1,15 @@
+.nav-item-user a {
+    
+    height: 50px;
+    width: 70px;
+    padding: 20px;
+    padding-top: 5px;
+
+    position: relative;
+    cursor: pointer;
+    align-items: center;
+    color: #fff;
+    
+}
+
+
